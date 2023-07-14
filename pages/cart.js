@@ -57,7 +57,7 @@ const Cart = () => {
 
         <div className="flex-[2] flex flex-col items-center pb-[50px] md:mt-14">
           <Image
-            src="/empty-cart.jpg"
+            src="/empty-cart.png"
             width={300}
             height={300}
             alt="empty cart"

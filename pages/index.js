@@ -1,6 +1,8 @@
 import Banner from "@/components/Banner";
 import Wrapper from "@/components/Wrapper";
 import ProductCard from "@/components/ProductCard";
+import React from "react";
+
 export default function Home() {
   return (
     <main>

@@ -9,26 +9,6 @@ const Footer = () => {
       <Wrapper className="flex justify-between flex-col md:flex-row gap-[50px] md:gap-0">
         {/* LEFT START */}
         <div className="flex gap-[50px] md:gap-[75px] lg:gap-[100px] flex-col md:flex-row">
-          {/* MENU START */}
-          <div className="flex flex-col gap-3 shrink-0">
-            <div className="font-oswald font-medium uppercase text-sm cursor-pointer">
-              Find a store
-            </div>
-            <div className="font-oswald font-medium uppercase text-sm cursor-pointer">
-              become a partner
-            </div>
-            <div className="font-oswald font-medium uppercase text-sm cursor-pointer">
-              sign up for email
-            </div>
-            <div className="font-oswald font-medium uppercase text-sm cursor-pointer">
-              send us feedback
-            </div>
-            <div className="font-oswald font-medium uppercase text-sm cursor-pointer">
-              student discount
-            </div>
-          </div>
-          {/* MENU END */}
-
           {/* NORMAL MENU START */}
           <div className="flex gap-[50px] md:gap-[75px] lg:gap-[100px] shrink-0">
             {/* MENU START */}
@@ -57,7 +37,7 @@ const Footer = () => {
             {/* MENU START */}
             <div className="flex flex-col gap-3">
               <div className="font-oswald font-medium uppercase text-sm">
-                About nike
+                About us
               </div>
               <div className="text-sm text-white/[0.5] hover:text-white cursor-pointer">
                 News
@@ -100,27 +80,8 @@ const Footer = () => {
       </Wrapper>
       <Wrapper className="flex justify-between mt-10 flex-col md:flex-row gap-[10px] md:gap-0">
         {/* LEFT START */}
-        <div className="text-[12px] text-white/[0.5] hover:text-white cursor-pointer text-center md:text-left">
-          © 2023 Nike, Inc. All Rights Reserved
-        </div>
-        {/* LEFT END */}
 
-        {/* RIGHT START */}
-        <div className="flex gap-2 md:gap-5 text-center md:text-left flex-wrap justify-center">
-          <div className="text-[12px] text-white/[0.5] hover:text-white cursor-pointer">
-            Guides
-          </div>
-          <div className="text-[12px] text-white/[0.5] hover:text-white cursor-pointer">
-            Terms of Sale
-          </div>
-          <div className="text-[12px] text-white/[0.5] hover:text-white cursor-pointer">
-            Terms of Use
-          </div>
-          <div className="text-[12px] text-white/[0.5] hover:text-white cursor-pointer">
-            Privacy Policy
-          </div>
-        </div>
-        {/* RIGHT END */}
+        {/* LEFT END */}
       </Wrapper>
     </footer>
   );

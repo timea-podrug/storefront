@@ -12,13 +12,10 @@ const ProductDetailsCarousel = () => {
         showStatus={false}
         className="productCarousel"
       >
-        <img src="/p1.png" />
-        <img src="/p2.png" />
-        <img src="/p3.png" />
-        <img src="/p4.png" />
-        <img src="/p5.png" />
-        <img src="/p6.png" />
-        <img src="/p7.png" />
+        <img src="/p1.jpg" />
+        <img src="/p2.jpg" />
+        <img src="/p3.jpg" />
+        <img src="/p4.jpg" />
       </Carousel>
     </div>
   );

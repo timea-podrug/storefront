@@ -16,13 +16,11 @@ const ProductDetails = () => {
           {/* start of right column */}
           <div className="flex-[1] py-3">
             {/* product title */}
-            <div className="text-[34px] font-semibold mb-2">
-              Jordan Retro 6 G
-            </div>
+            <div className="text-[34px] font-semibold mb-2">Product Name</div>
             {/* subtitle */}
-            <div className="text-lg font-semibold mb-5">Men's Golf Shoes</div>
+            <div className="text-lg font-semibold mb-5">Category</div>
             {/* price */}
-            <div className="text-lg font-semibold">PRICE : 110€</div>
+            <div className="text-lg font-semibold">PRICE : 120€</div>
             <div className="text-md font-medium text-black/[0.5] mb-20">
               incl. of taxes
             </div>
@@ -76,19 +74,21 @@ const ProductDetails = () => {
             <div>
               <div className="text-lg font-bold mb-5">Product Details</div>
               <div className="text-md mb-5">
-                Introducing the "SoleMotion" Sneakers - where style meets
-                comfort in a single pair. Designed with meticulous attention to
-                detail, these sneakers are the epitome of modern footwear. The
-                premium craftsmanship and quality materials ensure durability
-                and long-lasting wear.
+                {" "}
+                Introducing our high-performance jersey, crafted with the
+                perfect blend of comfort and functionality. Designed for active
+                individuals like you, this jersey features premium
+                moisture-wicking fabric that keeps you dry and cool, even during
+                intense workouts or long runs. The lightweight and breathable
+                material allow for maximum airflow, ensuring optimal ventilation
+                and comfort.
               </div>
               <div className="text-md mb-5">
-                Step into the world of effortless style with the sleek
-                silhouette and versatile color options. From casual outings to
-                urban adventures, the "SoleMotion" Sneakers are your go-to
-                choice for both fashion-forward looks and all-day comfort.
-                Elevate your shoe game and make a statement with every step you
-                take.
+                Its ergonomic design offers unrestricted movement, allowing you
+                to perform at your best. Whether you're hitting the track, going
+                for a jog, or engaging in any physical activity, this jersey is
+                your reliable companion. Embrace the ultimate combination of
+                style and performance with this versatile athletic essential.
               </div>
             </div>
           </div>

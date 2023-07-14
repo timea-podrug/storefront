@@ -40,7 +40,7 @@ const Header = () => {
     >
       <Wrapper className="h-[60px] flex justify-between items-center">
         <Link href="/">
-          <img src="/logo.png" className="w-[40px] md:w-[60px]" alt="logo" />
+          {/* <img src="#" className="w-[40px] md:w-[60px]" alt="logo" /> */}
         </Link>
 
         <Menu showCatMenu={showCatMenu} setShowCatMenu={setShowCatMenu} />

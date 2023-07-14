@@ -11,7 +11,7 @@ const Category = () => {
       <Wrapper>
         <div className="text-center max-w-[800px] mx-auto mt-8 md:mt-0 ">
           <div className="text-[28px] md:text-[34px] md-5 font-semibold leading-tight">
-            Running Shoes
+            Product
           </div>
         </div>
         {/* product grid start */}
