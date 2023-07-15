@@ -1,7 +1,7 @@
 # Storefront
 
 
-![storefront-screenshot](https://github.com/timea-podrug/storefront/assets/108535463/8ff88a1e-a3f3-4e68-9ea4-9e13798b52ea)
+![storefront-screenshot](https://github.com/timea-podrug/storefront/assets/108535463/97f9853a-e75c-4f67-9a9f-d0ec7665df36)
 
 
 ## Description
@@ -11,7 +11,7 @@ This project is a storefront built with Next.js and Tailwind CSS. It's my first 
 The part I am most proud of in this project is the Product Detail page. Additionally, the fact that I was able to create something functional without prior experience in these technologies is a personal achievement.
 
 
-![product_details-screenshot](https://github.com/timea-podrug/storefront/assets/108535463/8d760034-82e7-4098-b17c-3430e409e4ec)
+![product_details-screenshot](https://github.com/timea-podrug/storefront/assets/108535463/840ce147-d48e-4b09-a92e-3fa22aca1e2b)
 
 
 ## Project Structure
