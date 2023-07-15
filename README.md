@@ -1,11 +1,17 @@
 # Storefront
 
+
+![storefront-screenshot](https://github.com/timea-podrug/storefront/assets/108535463/8ff88a1e-a3f3-4e68-9ea4-9e13798b52ea)
+
+
 ## Description
 
 This project is a storefront built with Next.js and Tailwind CSS. It's my first time working with both technologies. I had a total of one month to complete the project, with two weeks dedicated to actual development. The initial two weeks were spent familiarizing myself with Next.js, Tailwind CSS, and working with APIs, particularly the Medusa API. Although I wasn't able to successfully implement the Medusa API, the experience allowed me to gain valuable insights into building a web application.
 
 The part I am most proud of in this project is the Product Detail page. Additionally, the fact that I was able to create something functional without prior experience in these technologies is a personal achievement.
 
+
+![product_details-screenshot](https://github.com/timea-podrug/storefront/assets/108535463/8d760034-82e7-4098-b17c-3430e409e4ec)
 
 
 ## Project Structure
